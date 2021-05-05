@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Jinhyeok Jeong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi! I am a researcher interested in human visisual perception and cognition."
+  bio    : "Researcher who has interest in human visisual perception and cognition."
   links:
     - label: "Affiliated Lab."
       icon: "fas fa-fw fa-link"
