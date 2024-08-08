@@ -117,39 +117,38 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate in Psychological Science (Cognition & Cognitive Neuroscience)"
   location         : "Nashville, TN, USA"
-  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jinhyeok.jeong@vanderbilt.edu"
+      url: "mailto:jinhyeok.jeong@vanderbilt.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://x.com/JinhyeokJeong1"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.vanderbilt.edu/psychological_sciences/bio/jinhyeok-jeong-"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=gJul5ogAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/JinhyeokJeong"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/JinhyeokJeong"
+    - label: "CV"
+      icon: "fas fa-fw fa-file"
+      url: "/docs/CV_JinhyeokJeong.pdf"
+    - label: "X (formerly Twitter)"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://x.com/JinhyeokJeong1"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/JinhyeokJeong"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=gJul5ogAAAAJ&hl=en"
+    - label: "X (formerly Twitter)"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://x.com/JinhyeokJeong1"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -192,7 +191,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
+#  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git

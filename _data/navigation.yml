@@ -9,7 +9,7 @@ main:
   - title: "Publications"
     url: /under_const/ # /publications/
   - title: "CV"
-    url: /docs/CV_JinhyeokJeong # https://JinhyeokJeong.github.io/docs/CV_JinhyeokJeong.pdf
+    url: /docs/CV_JinhyeokJeong.pdf # https://JinhyeokJeong.github.io/docs/CV_JinhyeokJeong.pdf
     #target: _blank
     
   # - title: "Sample Posts"
