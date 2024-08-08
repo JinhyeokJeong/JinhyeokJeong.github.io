@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Jinhyeok Jeong"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in Psychological Science (Cognition & Cognitive Neuroscience)"
+  bio              : "PhD Candidate in Psychological Science (Cognition & Cognitive Neuroscience), Vanderbilt University"
   location         : "Nashville, TN, USA"
   links:
     - label: "Email"
