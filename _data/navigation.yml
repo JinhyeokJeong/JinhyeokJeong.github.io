@@ -7,7 +7,7 @@ main:
   - title: "Research"
     url: /under_const/ # /research/  
   - title: "Publications"
-    url: /under_const/ # /publications/
+    url: /publications/
   - title: "CV"
     url: /docs/CV_JinhyeokJeong.pdf # https://JinhyeokJeong.github.io/docs/CV_JinhyeokJeong.pdf
     #target: _blank
