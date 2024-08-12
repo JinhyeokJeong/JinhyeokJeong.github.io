@@ -3,16 +3,17 @@ permalink: /publications/
 title: ""
 author_profile: false
 ---
+### Publications
 #### Manuscripts in Progress or Under Review 
 <ul>
-	<li style="font-size:0.8em;">Chow, J. K., <b>Jeong, J.</b>, Bahg, G., Lilburn, S., & Palmeri, T. J. (in preparation). High dimensional spaces. Manuscript in preparation.</li>
+	<li style="font-size:0.8em;">Chow, J. K., <b>Jeong, J.</b>, Bahg, G., Lilburn, S., & Palmeri, T. J. (in preparation). Thinking in High dimensional Spaces. Manuscript in preparation.</li>
 	<li style="font-size:0.8em;"><b>Jeong, J.</b>, Wu, H., & Palmeri, T. J. (in preparation). Comparing and Contrasting Cognitive and Psychometric modeling. Manuscript in preparation.</li>
 	<li style="font-size:0.8em;"><b>Jeong, J.</b>, & Palmeri, T. J. (in preparation). Computational Modeling of Ensemble Perception. Manuscript in preparation.</li>
 	<li style="font-size:0.8em;">Sun, J., <b>Jeong, J.</b>, Cha, O., Gauthier, I., & Palmeri, T. J. (in preparation). Relations Between Ensemble Perception and Perceptual Categorization.</li>
 	<li style="font-size:0.8em;"><b>Jeong, J.</b>, Lee, J., & Chong, S. C. (in preparation). The effect of feature types on the predictability between conjoint features in visual ensemble.</li>
 	<li style="font-size:0.8em;"><b>Jeong, J.</b>, & Chong, S. C. (under revision). How people perceive variability of multi-feature objects? <i>Journal of Experimental Psychology: Human Perception and Performance</i>.</li>
 </ul>
-#### Publications
+#### Peer-reviewed Journal Articles
 <ul>
 	<li style="font-size:0.8em;"><b>Jeong, J.</b>, & Chong, S. C. (2021). Perceived variability reflects the reliability of individual items. <i>Vision Research, 183</i>, 91-105.</li>
 	<li style="font-size:0.8em;"><b>Jeong, J.</b>, & Chong, S. C. (2020). Adaptation to mean and variance: Interrelationships between mean and variance representations in orientation perception. <i>Vision Research, 167</i>, 46-53.</li>
