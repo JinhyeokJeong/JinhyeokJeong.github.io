@@ -6,15 +6,14 @@ author_profile: false
 ### Publications
 #### Manuscripts in Progress or Under Review 
 <ul>
-	<li style="font-size:0.8em;">Chow, J. K., <b>Jeong, J.</b>, Bahg, G., Lilburn, S., & Palmeri, T. J. (in preparation). Thinking in High dimensional Spaces. Manuscript in preparation.</li>
 	<li style="font-size:0.8em;"><b>Jeong, J.</b>, Wu, H., & Palmeri, T. J. (in preparation). Comparing and Contrasting Cognitive and Psychometric modeling. Manuscript in preparation.</li>
-	<li style="font-size:0.8em;"><b>Jeong, J.</b>, & Palmeri, T. J. (in preparation). Computational Modeling of Ensemble Perception. Manuscript in preparation.</li>
+	<li style="font-size:0.8em;"><b>Jeong, J.</b>, & Palmeri, T. J. (in preparation). Computational Modeling of Implicit and Explicit Ensemble Perception. Manuscript in preparation.</li>
 	<li style="font-size:0.8em;">Sun, J., <b>Jeong, J.</b>, Cha, O., Gauthier, I., & Palmeri, T. J. (in preparation). Relations Between Ensemble Perception and Perceptual Categorization. Manuscript in preparation.</li>
 	<li style="font-size:0.8em;"><b>Jeong, J.</b>, Lee, J., & Chong, S. C. (in preparation). The effect of feature types on the predictability between conjoint features in visual ensemble. Manuscript in preparation.</li>
 </ul>
 #### Peer-reviewed Journal Articles
 <ul>
-	<li style="font-size:0.8em;"><b>Jeong, J.</b>, & Chong, S. C. (in press). How do people perceive the variability of multi-feature objects? <i>Journal of Experimental Psychology: Human Perception and Performance</i>.</li>
+	<li style="font-size:0.8em;"><b>Jeong, J.</b>, & Chong, S. C. (2025). How do people perceive the variability of multifeature objects? <i>Journal of Experimental Psychology: Human Perception and Performance, 51</i>(2), 202-216.</li>
 	<li style="font-size:0.8em;"><b>Jeong, J.</b>, & Chong, S. C. (2021). Perceived variability reflects the reliability of individual items. <i>Vision Research, 183</i>, 91-105.</li>
 	<li style="font-size:0.8em;"><b>Jeong, J.</b>, & Chong, S. C. (2020). Adaptation to mean and variance: Interrelationships between mean and variance representations in orientation perception. <i>Vision Research, 167</i>, 46-53.</li>
 </ul>
